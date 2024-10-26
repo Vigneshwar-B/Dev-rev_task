@@ -68,6 +68,4 @@ A Flask-based web application to manage flight bookings for users and administra
 
 This project is licensed under the MIT License.
 
----
 
-This `README.md` provides a quick overview of your project, setup instructions, features, and dependencies. Adjust the database URI and any paths as needed based on your environment.
